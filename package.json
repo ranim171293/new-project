@@ -1,0 +1,18 @@
+{
+  "name": "web-fe",
+  "version": "1.0.0",
+  "description": "my web frnotend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rani",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.8.0",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
